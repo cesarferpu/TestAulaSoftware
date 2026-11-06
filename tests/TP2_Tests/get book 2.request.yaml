@@ -1,0 +1,8 @@
+$kind: http-request
+description: ""
+url: http://localhost:3000/api/books/2
+method: GET
+body:
+  type: json
+  content: ""
+order: 3153841897154824

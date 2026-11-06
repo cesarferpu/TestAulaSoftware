@@ -1,0 +1,8 @@
+$kind: http-request
+description: ""
+url: http://localhost:3000/api/items/2
+method: PUT
+body:
+  type: json
+  content: ""
+order: 1793979316666
